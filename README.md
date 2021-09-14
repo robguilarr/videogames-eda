@@ -13,16 +13,15 @@ The content includes personal developments, even collaborations, and support mat
 
 ## About the Author
 
+* Website | [https://robsite.media](https://robsite.media "Visit personal website")
 
-* GitHub | [https://github.com](https://github.com/RAZERH4WK "Visit GitHub Overview")
+* GitHub | [https://github.com](https://github.com/robguilarr "Visit GitHub Overview")
 
-* Twitter | [https://twitter.com/](https://twitter.com/ "Not available yet")
+* Twitter | [https://twitter.com/](https://twitter.com/robguilarr "Not available yet")
 
-* LinkedIn | [https://www.linkedin.com](https://www.linkedin.com/in/roberto-aq/ "Visit LinkedIn Profile")
+* LinkedIn | [https://www.linkedin.com](https://www.linkedin.com/in/robguilarr/ "Visit LinkedIn Profile")
 
-* DataCamp | [https://www.datacamp.com](https://www.datacamp.com/profile/roberto-aq "Visit DataCamp Profile")
-
-* HackerRank | [https://www.hackerrank.com](https://www.hackerrank.com/roberto_aq "Visit HackerRank Profile")
+* DataCamp | [https://www.datacamp.com](https://www.datacamp.com/profile/robguilarr "Visit DataCamp Profile")
 
 * Kaggle | [https://www.kaggle.com](https://www.kaggle.com/razerhawk "Visit Kaggle Profile")
 

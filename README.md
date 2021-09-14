@@ -17,7 +17,7 @@ The content includes personal developments, even collaborations, and support mat
 
 * GitHub | [https://github.com](https://github.com/robguilarr "Visit GitHub Overview")
 
-* Twitter | [https://twitter.com/](https://twitter.com/robguilarr "Not available yet")
+* Twitter | [https://twitter.com](https://twitter.com/robguilarr "Not available yet")
 
 * LinkedIn | [https://www.linkedin.com](https://www.linkedin.com/in/robguilarr/ "Visit LinkedIn Profile")
 

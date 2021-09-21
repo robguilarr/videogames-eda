@@ -72,7 +72,7 @@ df = dfin[['Name', 'Year_of_Release', 'Publisher', 'Country', 'City', 'Developer
            'Global_Sales', 'Critic_Score', 'Critic_Count', 'User_Score',
            'User_Count', 'Rating']]
 
-# Cleaning memory evironment
+# Cleaning memory environment
 del dfin
 del dfip
 del dfvg

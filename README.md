@@ -13,7 +13,7 @@ In case of prefer the Jupyter preview directly, click [here](https://nbviewer.ju
 
 ## About the Author
 
-- Website | [https://robguilar.com](https://robguilar.com "Visit personal website")
+- GitHub | [https://github.com](https://github.com/robguilarr "Visit GitHub Overview")
 
 - Medium | [https://medium.com](https://medium.com/@robguilarr "Visit Medium Profile")
 
@@ -25,11 +25,7 @@ In case of prefer the Jupyter preview directly, click [here](https://nbviewer.ju
 
 - LinkedIn | [https://linkedin.com](https://www.linkedin.com/in/robguilarr/ "Visit LinkedIn Profile")
 
-- Kaggle | [https://kaggle.com](https://www.kaggle.com/razerhawk "Visit Kaggle Profile")
-
 - DataCamp | [https://datacamp.com](https://www.datacamp.com/profile/robguilarr "Visit DataCamp Profile")
-
-- Calendly | [https://calendly.com](https://calendly.com/robguilarr "Visit Calendly Portal")
 
 
 

@@ -3,8 +3,6 @@
 
 This repository contains a project also published at [my website](https://www.robguilar.com/posts/evga/ "Visit personal website")
 
-In case of prefer the Jupyter preview directly, click [here](https://nbviewer.jupyter.org/github/robguilarr/Python-Projects/blob/main/Data-Storytelling/videogame_analysis/videogame-analysis.ipynb "Jupyter NBviewer")
-
 
 <p align="center">
  <img width="50%" height="50%" src="https://images.unsplash.com/photo-1498736297812-3a08021f206f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1479&q=80">

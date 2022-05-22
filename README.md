@@ -5,7 +5,7 @@ This repository contains a project also published at [my website](https://www.ro
 
 
 <p align="center">
- <img width="50%" height="50%" src="https://images.unsplash.com/photo-1498736297812-3a08021f206f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1479&q=80">
+ <img width="50%" height="50%" src="https://c4.wallpaperflare.com/wallpaper/753/681/263/retro-games-video-games-space-invaders-atari-wallpaper-preview.jpg">
 </p>
 
 
